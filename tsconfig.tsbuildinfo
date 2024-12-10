@@ -1,0 +1,1 @@
+{"root":["./src/createapp.ts","./src/index.ts","./src/__test__/handlers/users.test.ts","./src/_mocks_/index.ts","./src/dtos/createuser.dto.ts","./src/e2e/index.test.ts","./src/handlers/users.ts","./src/routes/users.ts","./src/types/query-params.ts","./src/types/response.ts"],"version":"5.7.2"}
